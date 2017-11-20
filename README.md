@@ -1,1 +1,3 @@
 # SniffingAttacks
+
+As the technology arrives in numerous shapes for the unexperienced pool of users, a brief presentation of the risks that a sniffing attack involves must be declared from the beginning. Firstly, we must add that the most common tools used to obtain useful information are built-in for positive purposes, such as the network troubleshooting tool or network traffic analysis. The effects that one sniffing attack is able to determine are user identity, password or email theft, packet spoofing and data theft, monetary or reputation corruption or, in various cases, the establishment of an unsecured access for long term analysis over the protected information
